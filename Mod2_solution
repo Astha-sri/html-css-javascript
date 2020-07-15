@@ -1,0 +1,13 @@
+               Python
+# object oriented
+# multi-paradigm 
+# support dynamic data type 
+# independent from platform 
+# high-level internal object data types 
+# automatic memory management
+
+ Python file :
+1: tuple - ordered collection and immutable
+2: list - ordered and mutable 
+3: dictionary- unordered and mutable 
+            
